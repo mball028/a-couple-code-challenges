@@ -1,0 +1,17 @@
+{
+  "name": "jobnimbus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test:brackets": "jest matchingBrackets.test.js",
+    "test:multiples": "jest sumMultiples.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
